@@ -1,0 +1,44 @@
+id	abbreviation	grammatical_feature
+2-1-1	VP	Verb Phrase
+2-1-2	NP	Noun Phrase
+2-1-4	AdjP	Adjective Phrases
+2-1-5	AdvP	Adverb Phrases
+2-1-6-1	PreVPP	Pre-verbal  Preposition Phrase
+2-1-6-3	PstVPP	Post-verbal Preposition Phrase
+2-1-6-10	PtcpPP	Participant Preposition Phrase
+2-1-6-11	TopPP	Topic Preposition Phrase
+2-1-6-12	RefPP	Reference Preposition Phrase
+2-1-6-13	CondPP	Condition Preposition Phrase
+2-1-6-14	LocPP	Locative Preposition Phrase
+2-1-6-2	SentIPP	Sentence-Initial Preposition Phrase
+2-1-6-4	SpcPP	Space Preposition Phrase
+2-1-6-5	SrcPP	Source Preposition Phrase
+2-1-6-6	PathPP	Path Preposition Phrase
+2-1-6-7	GoalPP	Goal Preposition Phrase
+2-1-6-8	DirPP	Direction Preposition Phrase
+2-1-6-9	SpanPP	Space Extension Preposition Phrase
+2-1-3-5	StdCLF	Standard Classifier
+2-1-3-1	IndCLF	Individual Classifier
+2-1-3-2	EvCLF	Event Classifier
+2-1-3-3	KindCLF	Kind Classifier
+2-1-3-6	ApprCLF	Approximation Classifier
+2-3-2-1-2	TmpSCpl	Temporal Sequence Complex Sentence
+2-3-3-1	ConcCpl	Concessive Complex Sentence
+2-3-3-4	CausCpl	Causative Complex Sentence
+3-3-1	BUNeg	Negation BU
+3-3-2	MEINeg	Negation MEI/MEIYOU
+3-3-3	ImpNeg	Negation in Imperative Sentences
+3-3-4	LexNeg	Sublexical Negation
+3-3-5	NPI	Negative Polarity Items
+4-3	Deixis	Deixis
+4-4-2	Refl	Reflexive
+4-4-3	Recp	Reciprocal
+3-2-2	GUOPrf	Perfective GUO
+3-2-4	ZAIProg	Progressive ZAI
+2-2-2	Pass	Passive Construction
+2-2-10	Rel	Relative Construction
+2-2-3	Cmpr	Comparative Construction
+2-2-1-1	BA	BA Construction
+2-2-5	SHICop	Copular SHI
+3-2-1-1	VerbLE	Verbal LE
+4-5-1	ZHIQtf	Quantifier Only ZHI
