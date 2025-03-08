@@ -41,9 +41,8 @@ A grammatical-feature-based test suite for Chinese-English translation built on 
 
 ## Citation
 Please cite the following paper if it is helpful to your work :)!
-```
-coming soon
-```
+
+Huacheng Song, Yi Li, Yiwen Wu, Yu Liu, Jingxia Lin, and Hongzhi Xu. 2024. [How grammatical features impact machine translation: A new test suite for Chinese-English mt evaluation](https://aclanthology.org/2024.wmt-1.117/). In Proceedings of the 2024 Internaltional Conference on Machine Translation (WMT 2024).
 
 ## References
 Chu-Ren Huang and Dingxu Shi. 2016. [A Reference Grammar of Chinese. Reference Grammars](https://www.researchgate.net/publication/301341574_A_Reference_Grammar_of_Chinese). Cambridge University Press, Cambridge.
